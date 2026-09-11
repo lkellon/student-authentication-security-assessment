@@ -86,3 +86,9 @@ student-authentication-security-assessment/
 │   └── authentication-security-assessment.md
 └── references/
     └── sources.md
+## Project Documentation
+
+For a more detailed review of the security assessment and supporting cybersecurity guidance:
+
+- [Full Authentication Security Assessment](analysis/authentication-security-assessment.md)
+- [References and Cybersecurity Guidance](references/sources.md)
