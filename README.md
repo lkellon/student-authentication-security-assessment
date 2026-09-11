@@ -79,13 +79,15 @@ The original assessment used current cybersecurity guidance from:
 
 ## Repository Structure
 
-```text
+```
 student-authentication-security-assessment/
 ├── README.md
 ├── analysis/
 │   └── authentication-security-assessment.md
 └── references/
     └── sources.md
+```
+
 ## Project Documentation
 
 For a more detailed review of the security assessment and supporting cybersecurity guidance:
